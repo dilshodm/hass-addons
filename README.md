@@ -1,6 +1,6 @@
 # Home Assistant Add-ons
 
-Custom add-ons for Home Assistant.
+Custom add-ons for Home Assistant
 
 ## Installation
 
@@ -8,13 +8,14 @@ Add this repository to Home Assistant:
 
 1. Go to **Settings** → **Add-ons** → **Add-on Store**
 2. Click menu (⋮) → **Repositories**
-3. Add: `https://github.com/orfeasv/hass-addons`
+3. Add: `https://github.com/dilshodm/hass-addons`
 4. Install add-ons from the store
 
 ## Add-ons
 
 ### iPerf3 Server
 
+Forked from https://github.com/orfeasv/hass-addons
 Network performance testing server. Run bandwidth tests directly from your Home Assistant instance.
 
 **Features:**

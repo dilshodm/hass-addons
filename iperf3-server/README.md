@@ -1,6 +1,6 @@
 # iPerf3 Server Add-on
 
-Network performance testing server for Home Assistant using iPerf3.
+Network performance testing server for Home Assistant using iPerf3 (forked from https://github.com/orfeasv/hass-addons)
 
 ## Features
 
